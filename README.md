@@ -1,6 +1,6 @@
 # Rapha Front End Developer Task
 
-Using the assets here, we would like you to use JS to create something similar _[this fancy hover over the face thing](http://hankjobenhavn.com/#/eyewear/state)_ to show the sunglasses at different angles.
+Using the assets here, we would like you to use JS/CSS to create something similar _[this fancy hover over the face thing](http://hankjobenhavn.com/#/eyewear/state)_ to show the sunglasses at different angles.
 
 We wouldn’t expect you spend any more than a couple of hours on this.
 
